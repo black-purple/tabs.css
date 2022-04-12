@@ -18,7 +18,7 @@
     box-sizing: border-box;
     padding: 2rem;
     text-align: center;
-    width: 30vw;
+    width: 20vw;
     height: 10vh;
     background-color: hsl(var(--pry-clr));
     color: white;
