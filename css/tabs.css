@@ -23,7 +23,7 @@
     background-color: hsl(var(--pry-clr));
     color: white;
     cursor: pointer;
-    font-size: 3vw;
+    font-size: 2rem;
 }
 .tabs label:hover {
     color: hsl(var(--sry-clr)/.5);
